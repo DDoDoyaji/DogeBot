@@ -5,7 +5,7 @@
 # LIMIT: Limitation of messages per joining
 
 NAME: "dogebot"
-OAUTH: "oauth:123456789abcdef"
+OAUTH: "oauth:wfqpxgpk57oeujpag1kqbqy4cf8nvk"
 CHANNEL: "xqcow"
 MESSAGE: "[개떡] {}님, 환영합니다!"
 LIMIT: 3
